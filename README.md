@@ -71,12 +71,12 @@ node bin/index.js --help
 
 ## Technologies Used
 
-| Technology                                    | Purpose                                    |
-| :-------------------------------------------- | :----------------------------------------- |
-| [Node.js](https://nodejs.org/)                | JavaScript Runtime Environment             |
-| [Axios](https://axios-http.com/)              | Promise-based HTTP client for API requests |
-| [GitHub API](https://docs.github.com/en/rest) | Source of user activity data               |
-| [ES Modules](https://nodejs.org/api/esm.html) | Modern JavaScript module system            |
+| Technology                                                                          | Purpose                                    |
+| :---------------------------------------------------------------------------------- | :----------------------------------------- |
+| [Node.js](https://nodejs.org/)                                                      | JavaScript Runtime Environment             |
+| [Axios](https://axios-http.com/)                                                    | Promise-based HTTP client for API requests |
+| [GitHub API](https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28) | Source of user activity data               |
+| [ES Modules](https://nodejs.org/api/esm.html)                                       | Modern JavaScript module system            |
 
 ## Contributing
 
