@@ -92,6 +92,8 @@ Contributions make the open-source community such an amazing place to learn, ins
 
 This project is licensed under the **ISC License**.
 
+The project is courtesy of [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+
 ## Author Info
 
 **Abraham Adedamola Olawale**
